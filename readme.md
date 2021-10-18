@@ -24,4 +24,4 @@ While exploring, we made the plots substantially complete and asthetic in a way 
 1. Markdown cells: Text has been reduced from the original notebook to better suit a presentation environment.
 2. The last heatmap has been split in separate subslides to fit the presentation size. The original heatmap has 310 rows and as such it was sliced in 52-row dataframes, and each dataframe was separately plotted and assigned as a subslide.
 
-## [Creating slide decks presentation](Slide_Decks Command.md)
+## [Creating slide decks presentation](Slide_Decks_Command.md)
